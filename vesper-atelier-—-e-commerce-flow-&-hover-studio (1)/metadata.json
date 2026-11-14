@@ -1,0 +1,6 @@
+{
+  "name": "Vesper Atelier — E-Commerce Flow & Hover Studio",
+  "description": "Architectural e-commerce storefront showcasing fluid layout flow, six interactive hover micro-interactions, and a customizable e-commerce prompt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
